@@ -1,0 +1,1 @@
+A food order website is a digital platform where customers browse menus, place orders for pickup or delivery, and make payments, while restaurants use it to manage menus, track orders, and improve customer service.
